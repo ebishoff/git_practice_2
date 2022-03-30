@@ -1,3 +1,3 @@
 # Git Practice 
 
-# Introduction
+# Introduction to Git 
