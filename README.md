@@ -1,3 +1,3 @@
 # Git Practice 
 
-# Introduction to Git 
+# Introduction to Profi Git 
